@@ -1,0 +1,2 @@
+import RANDOM
+RANDOM.xyz()
