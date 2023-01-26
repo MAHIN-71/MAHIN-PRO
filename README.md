@@ -17,6 +17,8 @@ $ pip install bs4
 
 $ pkg install git
 
+$rm -rd MAHIN-PRO
+
 $ pip install requests
 
 $ git clone https://github.com/MAHIN-71/MAHIN-PRO
