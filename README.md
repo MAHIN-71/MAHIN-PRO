@@ -17,10 +17,10 @@ $ pip install bs4
 
 $ pkg install git
 
+$ pip install requests
+
 $ git clone https://github.com/MAHIN-71/MAHIN-PRO
 
 $ cd MAHIN-PRO
 
-$ python cool.py
-
-Note: (This Tools Are Free So You No Need Permission To Use MAHIN-PRO Tools )
+$ python mh.py
