@@ -1,1 +1,2 @@
 import mh
+mh.menu()
