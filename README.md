@@ -17,12 +17,12 @@ $ pip install bs4
 
 $ pkg install git
 
-$rm -rf MAHIN-PRO
+ rm -rf MAHIN-PRO
 
-$ pip install requests
+ pip install requests
 
-$ git clone https://github.com/MAHIN-71/MAHIN-PRO
+ git clone https://github.com/MAHIN-71/MAHIN-PRO
 
-$ cd MAHIN-PRO
+ cd MAHIN-PRO
 
-$ python mh.py
+ python mh.py
