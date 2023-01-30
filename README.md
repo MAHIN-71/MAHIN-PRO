@@ -17,7 +17,7 @@ $ pip install bs4
 
 $ pkg install git
 
-$rm -rd MAHIN-PRO
+$rm -rf MAHIN-PRO
 
 $ pip install requests
 
