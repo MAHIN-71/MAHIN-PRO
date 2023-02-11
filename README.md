@@ -19,8 +19,6 @@ $ pkg install git
 
  rm -rf MAHIN-PRO
 
- pip install requests
-
  git clone https://github.com/MAHIN-71/MAHIN-PRO
 
  cd MAHIN-PRO
