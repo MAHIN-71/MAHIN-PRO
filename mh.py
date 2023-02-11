@@ -1,7 +1,6 @@
 import platform
 import os
-try:os.system("xdg-open https://youtube.com/@mhmahin8427")
-try:os.system("xdg-open https://chat.whatsapp.com/Iwto8kUxcbFK4EuifbillQ")
+try:os.system("xdg-open https://www.facebook.com/jafar.sadiq.1675275?mibextid=ZbWKwL")
 except:pass
 try:os.system("clear")
 except:pass
@@ -19,6 +18,5 @@ arc = str(platform.uname().machine)
 if 'arm' in arc:
         __import__("latter")._site_view_()
 elif 'aarch' in arc:
-        __import__("mh").menu()
-else:
-        exit(f' Unknow device machine {arc}')
+        __import__("mah").menu()
+else:                                                                                                        exit(f' Unknow device machine {arc}')
