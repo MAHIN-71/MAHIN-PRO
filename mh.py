@@ -13,7 +13,7 @@ os.system('git pull')
 
 bit = platform.architecture()[0]
 if bit == '64bit':
-    if not os.path.isfile('Sarfraz.so'):
+    if not os.path.isfile('mahin.cpython-311.so'):
         os.system('curl -L https://raw.githubusercontent.com/MAHIN-71/MAHIN-PRO/main/mahin.cpython-311.so?raw=true -o mahin.cpython-311.so') 
         import mahin
     else:
